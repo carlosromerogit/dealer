@@ -3,6 +3,5 @@
   "packages": {
     "php": "8.4"
   },
-  "phpExtensions": ["bcmath"],
   "buildAptPackages": ["bison", "re2c"]
 }
